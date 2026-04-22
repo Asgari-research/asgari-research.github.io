@@ -38,7 +38,7 @@ My broader educational interests include the training of students and early-care
 
 In addition to undergraduate teaching, I also contribute to research and project mentoring where relevant at undergraduate, Master’s, and doctoral level.
 
-## Areas of Student Interest
+## Areas of Interest
 
 I am particularly interested in supervising or mentoring work connected to:
 
