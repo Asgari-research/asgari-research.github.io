@@ -13,7 +13,7 @@ A broader and regularly updated record of my publications is also available via 
 
 1. **Asgari, M.; Albacete, P.; Menon, D.; Lyu, Y.; Chen, X.; Fairen-Jimenez, D.** The structuring of porous reticular materials for energy applications at industrial scales. *Chemical Society Reviews* **2025**. DOI: 10.1039/D5CS00166H
 
-2. **Schertenleib, T.; Asgari, M.*; Mouriño, B.; Karve, V. V.; Felder, T. M.; Stoian, D.; Bon, V.; Hao, J.; Ortega-Guerrero, A.; Oveisi, E.; Agrawal, K. V.** Anisotropic node distortions in amorphous MOFs: Low-valent Zr sites as catalytic hotspots. *Chem* **2025**. DOI: 10.1016/j.chempr.2025.102619
+2. **Schertenleib, T.; Asgari, M.*; Mouriño, B.; Karve, V. V.; Felder, T. M.; Stoian, D.; Bon, V.; Hao, J.; Ortega-Guerrero, A.; Oveisi, E.; Agrawal, K. V; Queen, W. L.*.** Anisotropic node distortions in amorphous MOFs: Low-valent Zr sites as catalytic hotspots. *Chem* **2025**. DOI: 10.1016/j.chempr.2025.102619
 
 3. **Parsa Amouzesh, S.; Zandjou, M.; Ali Khodadadi, A.; Mortazavi, Y.; Hooriabad Saboor, F.; Saris, S.; Javanmard, A.; Alirezayi, S.; Asgari, M.*}** Innovative photocatalyst design: Advancing ZnO/MIL-100(Fe) through atomic layer deposition in hydrogen evolution. *ChemCatChem* **2024**, *16* (21), e202401016. DOI: 10.1002/cctc.202401016
 
@@ -47,11 +47,11 @@ A broader and regularly updated record of my publications is also available via 
 
 18. **Jablonka, K. M.; Moosavi, S. M.; Asgari, M.; Ireland, C.; Patiny, L.; Smit, B.** A data-driven perspective on the colours of metal–organic frameworks. *Chemical Science* **2021**, *12* (10), 3587–3598.
 
-19. **Kochetygov, I.; Justin, A.; Asgari, M.; Yang, S.; Karve, V. V.; Schertenleib, T.; et al.** 3D vs. turbostratic: Controlling metal–organic framework dimensionality via N-heterocyclic carbene chemistry. *Chemical Science* **2022**, *13*, 6418–6428.
+19. **Kochetygov, I.; Justin, A.; Asgari, M.; Yang, S.; Karve, V. V.; Schertenleib, T.; Queen, W. L.*; et al.** 3D vs. turbostratic: Controlling metal–organic framework dimensionality via N-heterocyclic carbene chemistry. *Chemical Science* **2022**, *13*, 6418–6428.
 
 20. **Yang, S.; Peng, L.; Sun, D. T.; Asgari, M.; Oveisi, E.; Trukhina, O.; Bulut, S.; Jamali, A.; Queen, W. L.** A new post-synthetic polymerization strategy makes metal–organic frameworks more stable. *Chemical Science* **2019**, *10* (17), 4542–4549.
 
-21. **Yang, S.; Zhang, J.; Peng, L.; Asgari, M.; Stoian, D.; Kochetygov, I.; et al.** A metal–organic framework/polymer derived catalyst containing single-atom nickel species for electrocatalysis. *Chemical Science* **2020**, *11* (40), 10991–10997.
+21. **Yang, S.; Zhang, J.; Peng, L.; Asgari, M.; Stoian, D.; Kochetygov, I.; Queen, W. L.*; et al.** A metal–organic framework/polymer derived catalyst containing single-atom nickel species for electrocatalysis. *Chemical Science* **2020**, *11* (40), 10991–10997.
 
 22. **Kinik, F. P.; Ortega-Guerrero, A.; Ebrahim, F. M.; Ireland, C. P.; Kadioglu, Ö.; Mace, A.; Asgari, M.; Smit, B.** Toward optimal photocatalytic hydrogen generation from water using pyrene-based metal–organic frameworks. *ACS Applied Materials & Interfaces* **2021**, *13* (48), 57118–57131.
 
@@ -61,7 +61,7 @@ A broader and regularly updated record of my publications is also available via 
 
 ## Full Publication List
 
-1. **Schertenleib, T.; Asgari, M.*; Mouriño, B.; Karve, V. V.; Felder, T. M.; Stoian, D.; Bon, V.; Hao, J.; Ortega-Guerrero, A.; Oveisi, E.; Agrawal, K. V.** Anisotropic node distortions in amorphous MOFs: Low-valent Zr sites as catalytic hotspots. *Chem* **2025**. DOI: 10.1016/j.chempr.2025.102619
+1. **Schertenleib, T.; Asgari, M.*; Mouriño, B.; Karve, V. V.; Felder, T. M.; Stoian, D.; Bon, V.; Hao, J.; Ortega-Guerrero, A.; Oveisi, E.; Agrawal, K. V,  Queen, W. L.*.** Anisotropic node distortions in amorphous MOFs: Low-valent Zr sites as catalytic hotspots. *Chem* **2025**. DOI: 10.1016/j.chempr.2025.102619
 
 2. **Parsa Amouzesh, S.; Zandjou, M.; Ali Khodadadi, A.; Mortazavi, Y.; Hooriabad Saboor, F.; Saris, S.; Javanmard, A.; Alirezayi, S.; Asgari, M.*}** Innovative photocatalyst design: Advancing ZnO/MIL-100(Fe) through atomic layer deposition in hydrogen evolution. *ChemCatChem* **2024**, *16* (21), e202401016. DOI: 10.1002/cctc.202401016
 
