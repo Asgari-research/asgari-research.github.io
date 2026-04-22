@@ -13,13 +13,13 @@ A broader and regularly updated record of my publications is also available via 
 
 1. **Asgari, M.; Albacete, P.; Menon, D.; Lyu, Y.; Chen, X.; Fairen-Jimenez, D.** The structuring of porous reticular materials for energy applications at industrial scales. *Chemical Society Reviews* **2025**. DOI: 10.1039/D5CS00166H
 
-2. **Schertenleib, T.; Asgari, M.*; Mouriño, B.; Karve, V. V.; Felder, T. M.; Stoian, D.; Bon, V.; Hao, J.; Ortega-Guerrero, A.; Oveisi, E.; Agrawal, K. V; Queen, W. L.*.** Anisotropic node distortions in amorphous MOFs: Low-valent Zr sites as catalytic hotspots. *Chem* **2025**. DOI: 10.1016/j.chempr.2025.102619
+2. **Schertenleib, T.; Asgari, M.*; Mouriño, B.; Karve, V. V.; Felder, T. M.; Stoian, D.; Bon, V.; Hao, J.; Ortega-Guerrero, A.; Oveisi, E.; Agrawal, K. V.; Queen, W. L.*.** Anisotropic node distortions in amorphous MOFs: Low-valent Zr sites as catalytic hotspots. *Chem* **2025**. DOI: 10.1016/j.chempr.2025.102619
 
-3. **Parsa Amouzesh, S.; Zandjou, M.; Ali Khodadadi, A.; Mortazavi, Y.; Hooriabad Saboor, F.; Saris, S.; Javanmard, A.; Alirezayi, S.; Asgari, M.*}** Innovative photocatalyst design: Advancing ZnO/MIL-100(Fe) through atomic layer deposition in hydrogen evolution. *ChemCatChem* **2024**, *16* (21), e202401016. DOI: 10.1002/cctc.202401016
+3. **Parsa Amouzesh, S.; Zandjou, M.; Ali Khodadadi, A.; Mortazavi, Y.; Hooriabad Saboor, F.; Saris, S.; Javanmard, A.; Alirezayi, S.; Asgari, M.*.** Innovative photocatalyst design: Advancing ZnO/MIL-100(Fe) through atomic layer deposition in hydrogen evolution. *ChemCatChem* **2024**, *16* (21), e202401016. DOI: 10.1002/cctc.202401016
 
 4. **Alimardani, H.; Asgari, M.*; Shivaee-Gariz, R.; Tamnanloo, M.** Accelerated modeling and design of a mixed refrigerant cryogenic process using a data-driven approach. *Digital Chemical Engineering* **2024**, *10*, 100143.
 
-5. **Hooriabad Saboor, F.; Shahsavari, S.; Zandjou, M.; Asgari, M.*}** From structure to catalysis: Advances in metal–organic frameworks-based shape-selective reactions. *ChemNanoMat* **2024**, e202400049.
+5. **Hooriabad Saboor, F.; Shahsavari, S.; Zandjou, M.; Asgari, M.*.** From structure to catalysis: Advances in metal–organic frameworks-based shape-selective reactions. *ChemNanoMat* **2024**, e202400049.
 
 6. **Asgari, M.*; Saboor, F. H.; Amouzesh, S. P.; Coull, M. W.; Khodadadi, A. A.; Mortazavi, Y.; Hyodo, T.; Shimizu, Y.** Facile ultrasonic-assisted synthesis of SiO$_2$/ZnO core/shell nanostructures: A selective ethanol sensor at low temperatures with enhanced recovery. *Sensors and Actuators B: Chemical* **2022**, *368*, 132187.
 
@@ -41,7 +41,7 @@ A broader and regularly updated record of my publications is also available via 
 
 15. **Liu, M.; Asgari, M.; Bergmann, K.; Shenassa, K.; King, G.; Leontowich, A. F. G.; Fairen-Jimenez, D.; Hudson, Z. M.** Coassembling mesoporous zeolitic imidazolate frameworks by directed reticular chemistry. *Journal of the American Chemical Society* **2024**, *146* (45), 31295–31306. DOI: 10.1021/jacs.4c12385
 
-16. **Albacete, P.*; Asgari, M.*; Yang, Y.; Al-Shanks, A. N.; Fairen-Jimenez, D.*}** Self-shaping monolithic reticular materials: Ingredients for success. *Advanced Functional Materials* **2024**, *34*, 2305979. DOI: 10.1002/adfm.202305979
+16. **Albacete, P.*; Asgari, M.*; Yang, Y.; Al-Shanks, A. N.; Fairen-Jimenez, D.*.** Self-shaping monolithic reticular materials: Ingredients for success. *Advanced Functional Materials* **2024**, *34*, 2305979. DOI: 10.1002/adfm.202305979
 
 17. **Karve, V. V.; Espín, J.; Asgari, M.; Van Gele, S.; Oveisi, E.; Queen, W. L.** N-containing carbons derived from microporous coordination polymers for use in post-combustion flue gas capture. *Advanced Functional Materials* **2023**, *33* (21), 2212283.
 
@@ -61,27 +61,27 @@ A broader and regularly updated record of my publications is also available via 
 
 ## Full Publication List
 
-1. **Schertenleib, T.; Asgari, M.*; Mouriño, B.; Karve, V. V.; Felder, T. M.; Stoian, D.; Bon, V.; Hao, J.; Ortega-Guerrero, A.; Oveisi, E.; Agrawal, K. V,  Queen, W. L.*.** Anisotropic node distortions in amorphous MOFs: Low-valent Zr sites as catalytic hotspots. *Chem* **2025**. DOI: 10.1016/j.chempr.2025.102619
+1. **Schertenleib, T.; Asgari, M.*; Mouriño, B.; Karve, V. V.; Felder, T. M.; Stoian, D.; Bon, V.; Hao, J.; Ortega-Guerrero, A.; Oveisi, E.; Agrawal, K. V.; Queen, W. L.*.** Anisotropic node distortions in amorphous MOFs: Low-valent Zr sites as catalytic hotspots. *Chem* **2025**. DOI: 10.1016/j.chempr.2025.102619
 
-2. **Parsa Amouzesh, S.; Zandjou, M.; Ali Khodadadi, A.; Mortazavi, Y.; Hooriabad Saboor, F.; Saris, S.; Javanmard, A.; Alirezayi, S.; Asgari, M.*}** Innovative photocatalyst design: Advancing ZnO/MIL-100(Fe) through atomic layer deposition in hydrogen evolution. *ChemCatChem* **2024**, *16* (21), e202401016. DOI: 10.1002/cctc.202401016
+2. **Parsa Amouzesh, S.; Zandjou, M.; Ali Khodadadi, A.; Mortazavi, Y.; Hooriabad Saboor, F.; Saris, S.; Javanmard, A.; Alirezayi, S.; Asgari, M.*.** Innovative photocatalyst design: Advancing ZnO/MIL-100(Fe) through atomic layer deposition in hydrogen evolution. *ChemCatChem* **2024**, *16* (21), e202401016. DOI: 10.1002/cctc.202401016
 
-3. **Zahedi Asl, S. Z.; Abaei, S.; Alimardani, H.; Beydaghdari, M.; HooriAbad Saboor, F.; Asgari, M.*}** Transforming MOF design paradigms: Data-driven insights into MIL-100(Fe) synthesis for application-specific optimization of dye removal performance. *ChemRxiv* **2025** (preprint / under review).
+3. **Zahedi Asl, S. Z.; Abaei, S.; Alimardani, H.; Beydaghdari, M.; HooriAbad Saboor, F.; Asgari, M.*.** Transforming MOF design paradigms: Data-driven insights into MIL-100(Fe) synthesis for application-specific optimization of dye removal performance. *ChemRxiv* **2025** (preprint / under review).
 
-4. **Hooriabad Saboor, F.; Shahsavari, S.; Zandjou, M.; Asgari, M.*}** From structure to catalysis: Advances in metal–organic frameworks-based shape-selective reactions. *ChemNanoMat* **2024**, e202400049.
+4. **Hooriabad Saboor, F.; Shahsavari, S.; Zandjou, M.; Asgari, M.*.** From structure to catalysis: Advances in metal–organic frameworks-based shape-selective reactions. *ChemNanoMat* **2024**, e202400049.
 
 5. **Alimardani, H.; Asgari, M.*; Shivaee-Gariz, R.; Tamnanloo, M.** Accelerated modeling and design of a mixed refrigerant cryogenic process using a data-driven approach. *Digital Chemical Engineering* **2024**, *10*, 100143.
 
-6. **Azizi, M.; Khodadadi, A. A.; Mortazavi, Y.; Asgari, M.*}** Regeneration of oxygenated functional groups on thermally reduced graphene oxide nanosheets via diluted oxygen DBD cold plasma. *Chemical Physics Letters* **2024**, *838*, 141087.
+6. **Azizi, M.; Khodadadi, A. A.; Mortazavi, Y.; Asgari, M.*.** Regeneration of oxygenated functional groups on thermally reduced graphene oxide nanosheets via diluted oxygen DBD cold plasma. *Chemical Physics Letters* **2024**, *838*, 141087.
 
-7. **Amouzesh, S. P.; Khodadadi, A. A.; Mortazavi, Y.; Saris, S.; Asgari, M.*}** MIL-100(Fe)/ZnO nanocomposite sensors: An enhanced ammonia selectivity and low operating temperature. *Sensors and Actuators B: Chemical* **2024**, *399*, 134791. DOI: 10.1016/j.snb.2023.134791
+7. **Amouzesh, S. P.; Khodadadi, A. A.; Mortazavi, Y.; Saris, S.; Asgari, M.*.** MIL-100(Fe)/ZnO nanocomposite sensors: An enhanced ammonia selectivity and low operating temperature. *Sensors and Actuators B: Chemical* **2024**, *399*, 134791. DOI: 10.1016/j.snb.2023.134791
 
-8. **Zandjou, M.; Hooriabad Saboor, F.; Asgari, M.*}** Development of biochar-based functional catalysts/nanocatalyst for biodiesel production. In *Catalytic Applications of Biochar for Environmental Remediation* **2024** (ACS Book Chapter).
+8. **Zandjou, M.; Hooriabad Saboor, F.; Asgari, M.*.** Development of biochar-based functional catalysts/nanocatalyst for biodiesel production. In *Catalytic Applications of Biochar for Environmental Remediation* **2024** (ACS Book Chapter).
 
-9. **Mehrasa, S.; Hooriabad Saboor, F. H.; Asgari, M.*}** Biochar modification for removal of inorganic and organic contaminants from industrial effluent. In *Catalytic Applications of Biochar for Environmental Remediation* **2024** (ACS Book Chapter).
+9. **Mehrasa, S.; Hooriabad Saboor, F. H.; Asgari, M.*.** Biochar modification for removal of inorganic and organic contaminants from industrial effluent. In *Catalytic Applications of Biochar for Environmental Remediation* **2024** (ACS Book Chapter).
 
-10. **Albacete, P.*; Asgari, M.*; Yang, Y.; Al-Shanks, A. N.; Fairen-Jimenez, D.*}** Self-shaping monolithic reticular materials: Ingredients for success. *Advanced Functional Materials* **2024**, *34*, 2305979. DOI: 10.1002/adfm.202305979
+10. **Albacete, P.*; Asgari, M.*; Yang, Y.; Al-Shanks, A. N.; Fairen-Jimenez, D.*.** Self-shaping monolithic reticular materials: Ingredients for success. *Advanced Functional Materials* **2024**, *34*, 2305979. DOI: 10.1002/adfm.202305979
 
-11. **Taheri, N.; Dinari, M.; Asgari, M.*}** Recent applications of porous organic polymers prepared via the AlCl$_3$-catalyzed Friedel–Crafts reaction: A review. *ACS Applied Polymer Materials* **2022**, *4* (9), 6288–6302.
+11. **Taheri, N.; Dinari, M.; Asgari, M.*.** Recent applications of porous organic polymers prepared via the AlCl$_3$-catalyzed Friedel–Crafts reaction: A review. *ACS Applied Polymer Materials* **2022**, *4* (9), 6288–6302.
 
 12. **Asgari, M.*; Saboor, F. H.; Amouzesh, S. P.; Coull, M. W.; Khodadadi, A. A.; Mortazavi, Y.; Hyodo, T.; Shimizu, Y.** Facile ultrasonic-assisted synthesis of SiO$_2$/ZnO core/shell nanostructures: A selective ethanol sensor at low temperatures with enhanced recovery. *Sensors and Actuators B: Chemical* **2022**, *368*, 132187.
 
