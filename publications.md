@@ -8,6 +8,26 @@ permalink: /publications/
 
 A broader and regularly updated record of my publications is also available via my [Google Scholar profile](https://scholar.google.com/citations?user=NtevW_YAAAAJ&hl=en&oi=ao).
 
+## Recent publications and independent research direction (2025–2026)
+
+The following articles illustrate an interconnected line spanning experimental MOF chemistry, adsorption and stability, and reliable machine-learning-assisted materials assessment. An asterisk identifies corresponding authorship **only where checked against publication records**.
+
+1. **Alimardani, H.; Abaei, S.; Asgari, M.* ** [Decoding the unseen: Unsupervised anomaly detection in metal–organic frameworks for discovery beyond the norm](https://doi.org/10.1039/D5SC06431G). *Chemical Science* **2026**.
+2. **Abaei, S.; Alimardani, H.; Asgari, M.* ** [How far can simple descriptors go? A chemistry-led benchmark for MOF water and activation stability](https://doi.org/10.1039/D6TA03496A). *Journal of Materials Chemistry A* **2026**.
+3. **Zahedi Asl, S.; Abaei, S.; Alimardani, H.; Beydaghdari, M.; Hooriabad Saboor, F.*; Asgari, M.* ** [From surface area to functionality: Data-driven insights into MIL-100(Fe) synthesis for enhanced dye removal efficiency](https://doi.org/10.1039/D5NR04817F). *Nanoscale* **2026**, *18*, 16310–16332.
+4. **Abaei, S.; Alimardani, H.; Masoudi, F.; Aidi, M.; Asgari, M.** [When does framework topology matter beyond pore metrics in MOF adsorption prediction?](https://doi.org/10.1016/j.seppur.2026.139617). *Separation and Purification Technology* **2026**.
+5. **Abaei, S.; Alimardani, H.; Fakhroleslam, M.; Eslami, F.; Asgari, M.** Benchmark maturity in MOF adsorption machine learning: When do conclusions become scientifically reliable? *Digital Discovery* **2026**. [Reproducibility archive](https://doi.org/10.5281/zenodo.22080792).
+6. **Abaei, S.; Masoudi, F.; Alimardani, H.; Asgari, M.** Mapping trust in MOF adsorption predictions: Chemically auditable descriptor atlases for machine-learning screening. *Journal of Materials Chemistry A* **2026**. [Code and data](https://github.com/Asgari-research/interpretable-mof-failure-maps).
+7. **Asgari, M.*; Albacete, P.; Menon, D.; Lyu, Y.; Chen, X.; Fairen-Jimenez, D.* ** [The structuring of porous reticular materials for energy applications at industrial scales](https://doi.org/10.1039/D5CS00166H). *Chemical Society Reviews* **2025**, *54*, 4701–4744.
+
+### Additional independent experimental and review contributions
+
+- **Parsa Amouzesh, S.; Khodadadi, A. A.*; Mortazavi, Y.; Saris, S.; Asgari, M.* ** [MIL-100(Fe)/ZnO nanocomposite sensors: An enhanced ammonia selectivity and low operating temperature](https://doi.org/10.1016/j.snb.2023.134791). *Sensors and Actuators B: Chemical* **2024**.
+- **Parsa Amouzesh, S.; Zandjou, M.; et al.; Asgari, M.* ** [Innovative photocatalyst design: Advancing ZnO/MIL-100(Fe) through atomic layer deposition in hydrogen evolution](https://doi.org/10.1002/cctc.202401016). *ChemCatChem* **2024**.
+- **Beydaghdari, M.; Hooriabad Saboor, F.; Babapoor, A.; Karve, V. V.; Asgari, M.* ** [Recent advances in MOF-based adsorbents for dye removal from the aquatic environment](https://doi.org/10.3390/en15062023). *Energies* **2022**.
+- **Beydaghdari, M.; Hooriabad Saboor, F.; Babapoor, A.; Asgari, M.** [Recent progress in adsorptive removal of water pollutants by metal–organic frameworks](https://doi.org/10.1002/cnma.202100400). *ChemNanoMat* **2022**. (Corresponding-author role should be checked against the final publisher PDF.)
+- **Asgari, M.; Hooriabad Saboor, F.; Amouzesh, S. P.; et al.** Facile ultrasonic-assisted synthesis of SiO2/ZnO core/shell nanostructures: A selective ethanol sensor at low temperatures with enhanced recovery. *Sensors and Actuators B: Chemical* **2022**. (First author.)
+
 ## Selected Publications
 
 
@@ -65,7 +85,7 @@ A broader and regularly updated record of my publications is also available via 
 
 2. **Parsa Amouzesh, S.; Zandjou, M.; Ali Khodadadi, A.; Mortazavi, Y.; Hooriabad Saboor, F.; Saris, S.; Javanmard, A.; Alirezayi, S.; Asgari, M.*.** Innovative photocatalyst design: Advancing ZnO/MIL-100(Fe) through atomic layer deposition in hydrogen evolution. *ChemCatChem* **2024**, *16* (21), e202401016. DOI: 10.1002/cctc.202401016
 
-3. **Zahedi Asl, S. Z.; Abaei, S.; Alimardani, H.; Beydaghdari, M.; HooriAbad Saboor, F.; Asgari, M.*.** Transforming MOF design paradigms: Data-driven insights into MIL-100(Fe) synthesis for application-specific optimization of dye removal performance. *ChemRxiv* **2025** (preprint / under review).
+3. **Zahedi Asl, S.; Abaei, S.; Alimardani, H.; Beydaghdari, M.; Hooriabad Saboor, F.; Asgari, M.*.** From surface area to functionality: Data-driven insights into MIL-100(Fe) synthesis for enhanced dye removal efficiency. *Nanoscale* **2026**, *18*, 16310–16332. DOI: 10.1039/D5NR04817F. (Peer-reviewed successor to the 2025 preprint.)
 
 4. **Hooriabad Saboor, F.; Shahsavari, S.; Zandjou, M.; Asgari, M.*.** From structure to catalysis: Advances in metal–organic frameworks-based shape-selective reactions. *ChemNanoMat* **2024**, e202400049.
 
